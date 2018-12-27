@@ -25,9 +25,9 @@ users = set()
 #users.add("")
 
 #example data generated using these
-users.add('irongeek_adc')
-users.add('jaimeblascob')
-users.add('josephfcox')
+users.add('')
+users.add('')
+users.add('')
 
 def main():
     try:
@@ -68,7 +68,7 @@ def main():
 
     # Uncomment if you want to export to .gml
 
-    #nx.write_gml(G,"OpBeast.gml")
+    #nx.write_gml(G,"file_name.gml")
 
 
 if __name__ == '__main__':
